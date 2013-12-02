@@ -11,7 +11,7 @@ AM_INIT_AUTOMAKE([1.13 foreign])
 AM_SILENT_RULES([yes])
 
 AC_PROG_CC
-AC_PROG_LIBTOOL
+LT_INIT
 
 AM_PATH_GLIB_2_0([2.32.4], [], [], [gobject])
 
