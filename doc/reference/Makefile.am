@@ -1,6 +1,6 @@
 DOC_MODULE = sample
 
-DOC_MAIN_SGML_FILE = sample-docs.sgml
+DOC_MAIN_SGML_FILE = $(DOC_MODULE)-docs.sgml
 
 DOC_SOURCE_DIR =				\
 	$(top_srcdir)/sample
