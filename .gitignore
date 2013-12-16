@@ -5,6 +5,8 @@ Makefile.in
 *.lo
 *.o
 *.la
+*.gir
+*.typelib
 /stamp-h1
 /aclocal.m4
 /autom4te.cache/
